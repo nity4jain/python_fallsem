@@ -1,3 +1,3 @@
 # Python
 
-all the codes in python!!
+all my fall sem, 1st year codes in python!!
